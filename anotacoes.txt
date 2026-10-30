@@ -1,0 +1,6 @@
+
+... bancada
+projetor
+...
+--cadeira
+ar
