@@ -62,6 +62,7 @@ def import_inscricoes(caminho):
                     {}"nome" = inscricao[0]
                     'MATRICULA' = inscricao[1]
                     "minutos" = inscricao[2]
-                )
+                )}
+                
 
         
